@@ -25,10 +25,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DrLeo0&hide_border=true)](https://git.io/streak-stats)
 
-<!--
-[![Twitter followers](https://img.shields.io/twitter/follow/__echo__0?label=Followers&logo=Twitter&style=social)](https://twitter.com/__echo__0)
--->
-
-- - - 
 
 
