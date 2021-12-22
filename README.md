@@ -7,7 +7,7 @@
 
 <!-- https://github.com -->
 [![GitHub followers](https://img.shields.io/github/followers/DrLeo0?label=Followers&logo=GitHub&style=social)](https://gihub.com/DrLeo0)
-[![GitHub Gist](https://img.shields.io/badge/-Gist-181717.svg?logo=github&logoColor=FFFFFF)](https://gist.github.com/DrLeo0)
+[![GitHub Gist](https://img.shields.io/badge/-Gist-181717.svg?logo=github&logoColor=ff0000)](https://gist.github.com/DrLeo0)
 
 <!-- https://zenn.dev -->
 [![Zenn likes](https://zenn.badge.nikaera.com/s/4513echo/likes?style=flat)
