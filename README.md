@@ -23,7 +23,7 @@
  ![Qiita followers](https://qiita-badge.apiapi.app/s/4513echo/followers.svg)
 ](http://qiita.com/4513echo)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DrLeo0&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DrLeo0&hide_border=true&theme=radical)](https://git.io/streak-stats)
 
 
 
