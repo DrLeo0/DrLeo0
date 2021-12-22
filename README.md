@@ -1,7 +1,7 @@
 <!-- ### Hi, there 👋 -->
 
-[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=DrLeo0&show_icons=true&count_private=true&theme=radical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=DrLeo0&count_private=true&layout=compact&langs_count=15&theme=radical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=DrLeo0&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=DrLeo0&count_private=true&layout=compact&langs_count=15&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DrLeo0&no-frame=true&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
